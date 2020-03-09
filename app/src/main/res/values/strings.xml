@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+
+    <string name="title">Provincial Capital Quiz</string>
+    <string name="numQ">Number of Questions</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="question">Please select the correct capital name from a list of options for each province and territory in Canada</string>
+    <string name="finalScore">Final Score</string>
+    <string name="done">Done</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="button">Button</string>
+    <string name="none">none</string>
+
+    <string-array name="questionNum">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="q1">
+        <item>Ottawa</item>
+        <item>Hamilton</item>
+        <item>Toronto</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="q2">
+        <item>St. John\'s</item>
+        <item>Charlottetown</item>
+        <item>Winnipeg</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="q3">
+        <item>St. John\'s</item>
+        <item>Waterloo</item>
+        <item>Regina</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="q4">
+        <item>Whitehorse</item>
+        <item>Inuvik</item>
+        <item>Yellowknife</item>
+        <item>None</item>
+    </string-array>
+
+</resources>
